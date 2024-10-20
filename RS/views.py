@@ -50,7 +50,7 @@ class ChatGPTAPIView(APIView):
             completion = client.chat.completions.create(
                 model="gpt-4o-mini",  # O el modelo que estés usando
                 messages= [{"role": "system", "content": prompt}],
-                max_tokens=500,
+                max_tokens=150,
                 temperature=0.7,
             )
             
