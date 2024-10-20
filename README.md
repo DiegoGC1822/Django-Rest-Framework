@@ -1,3 +1,7 @@
+### Prerrequisitos
+
+- Tener configurado tu api key de openai como variable de entorno
+
 ### Inicializar el proyecto
 
 - Crear entorno virtual (Primero se debe instalar venv si no se tiene)
