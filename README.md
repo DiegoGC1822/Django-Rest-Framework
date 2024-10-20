@@ -30,3 +30,8 @@
 ```bash
   python manage.py runserver
 ```
+
+- Para salir desactivar el entorno virtual
+```bash
+  deactivate
+```
